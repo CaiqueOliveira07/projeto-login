@@ -44,7 +44,13 @@
       }
 
       section#login > div#formulario {
-         display: block;
+       
          padding: 10px;
-        
+                
+      }
+
+      div#formulario > p {
+         text-align: center;
+         display: inline-table;
+         width: 200px;
       }
